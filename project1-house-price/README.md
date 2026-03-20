@@ -25,11 +25,10 @@ Machine Learning project to predict house prices based on features like square f
 ---
 
 ## ⚙️ Tech Stack
-- Python  
-- Pandas, NumPy  
-- Matplotlib, Seaborn  
-- Scikit-learn  
-
+- 🐍 Python  
+- 📊 Pandas, NumPy  
+- 📈 Matplotlib, Seaborn  
+- 🤖 Scikit-learn 
 ---
 
 ## 🔍 Steps Performed
@@ -62,7 +61,6 @@ Machine Learning project to predict house prices based on features like square f
 - Lower error values  
 - Higher R² score  
 
----
 
 
 ---
